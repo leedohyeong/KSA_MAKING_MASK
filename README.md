@@ -27,3 +27,6 @@
 #####  * 프로젝트 구현 목적: 원하는 영상의 이미지를 Image segmentation을 활용해 다른 이미지와 합성이미지를 제작, BMP 이미지파일 MFC에서 처리하기
 #####  * 프로젝트 기간: 2021.05.26 ~ 2021.06.10
 
+##### [프로젝트 문서화][doclink]
+
+[doclink]: https://github.com/leedohyeong/KSA_MAKING_MASK/blob/main/document/BMP_COMB_MASK.pdf "go doc"
