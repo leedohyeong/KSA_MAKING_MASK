@@ -29,4 +29,4 @@
 
 ##### [프로젝트 문서화][doclink]
 
-[doclink]: https://github.com/leedohyeong/KSA_MAKING_MASK/Document/BMP_COMB_MASK.pdf "go doc"
+[doclink]: https://github.com/leedohyeong/KSA_MAKING_MASK/blob/main/Document/BMP_COMB_MASK.pdf "go doc"
